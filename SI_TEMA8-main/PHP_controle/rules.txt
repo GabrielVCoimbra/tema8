@@ -1,0 +1,5 @@
+incendio=alerta_bombeiros, acionar_geradores, desligar energia, ativer_jato_agua
+Invasao=ligar_para_policia, ligar_alarme 
+Falta_de_energia=ligar_geradores_geral
+vazamento_agua=fechar_registro, enviar_alerta
+porta_aberta=fechar_porta
